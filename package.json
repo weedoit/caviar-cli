@@ -17,8 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "colors": "^1.1.2",
-    "git-download": "0.0.2",
-    "nodegit": "^0.4.1"
+    "git-download": "0.0.2"
   },
   "homepage": "https://weedoit.github.io/caviar-cli",
   "devDependencies": {

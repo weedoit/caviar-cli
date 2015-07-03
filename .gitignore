@@ -1,1 +1,7 @@
 node_modules
+logs
+*.log
+*.DS_Store
+pids
+*.pid
+*.seed

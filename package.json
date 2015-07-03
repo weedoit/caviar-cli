@@ -1,6 +1,6 @@
 {
   "name": "caviar-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Caviar command line interface tool",
   "main": "dist/main.js",
   "repository": {

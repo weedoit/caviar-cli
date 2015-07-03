@@ -1,0 +1,29 @@
+{
+  "name": "caviar-cli",
+  "version": "0.0.1",
+  "description": "Caviar command line interface tool",
+  "main": "dist/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weedoit/caviar-cli"
+  },
+  "directories": {
+    "bin": "./bin"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brunoziie <eu@brunoziie.com>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "git-download": "0.0.2",
+    "nodegit": "^0.4.1"
+  },
+  "homepage": "https://weedoit.github.io/caviar-cli",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-typescript": "^2.7.7",
+    "gulp-watch": "^4.2.4"
+  }
+}
